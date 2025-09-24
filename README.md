@@ -1,17 +1,9 @@
-
-## 🤝 Contributing
-
-Feel free to fork the repo and submit pull requests to enhance Hupp!
-
-
-
-########
-
 # SkillScan - GitHub Profile Analyzer Platform
 
-SkillScan is a web-based recruiting tool designed to help recruiters assess developers efficiently. By analyzing a candidate's GitHub activity, Hupp generates a score and provides a match percentage for a selected position, streamlining the hiring process.
+## Introduction 
 
-It offers deep insights into a developer’s coding habits, contributions, and tech stack familiarity based on real-world projects.  
+SkillScan is a web-based recruiting tool designed to help recruiters assess developers efficiently. By analyzing a candidate's GitHub activity, SkillScan generates a score and provides a match percentage for a selected position, streamlining the hiring process.
+ 
 This allows recruiters to make data-driven hiring decisions quickly, reducing manual evaluation and bias.
 
 ---
@@ -24,13 +16,13 @@ Fullstack (MERN Stack)
 
 ## 🚀 Deployed App
 
-  **Frontend:** [Hupp - Try it now]()
-  **Backend:** Backend services are provided by **Firebase**  
+  **Frontend:** [SkillScan - Try it now](https://skillscan01.netlify.app) <br>
+  **Backend:** Backend services are provided by **Firebase** <br>
   **Database:**  The application uses **Firebase Firestore** 
   
 ---
 
-## 📁 Directory Structure
+## 🏗️ Directory Structure
 
 ```
 
@@ -105,6 +97,26 @@ Attach a very short video walkthough of all of the features.
 
 ---
 
+## 📸 Screenshots
+
+### Authentication
+![Authentication Screenshot](images/Screenshot%202025-09-23%20171052.png)
+
+### Main Dashboard
+![Main Dashboard](images/Screenshot%202025-09-23%20180904.png)
+
+###  Analyze Profile
+![Analyze Profile 1](images/Screenshot%202025-09-23%20171436.png)  
+![Analyze Profile 2](images/Screenshot%202025-09-23%20180520.png)
+
+###  Candidate Section
+![Candidate Section](images/Screenshot%202025-09-23%20183017.png)
+
+###  Job Section
+![Job Section](images/Screenshot%202025-09-23%20171320.png)
+
+---
+
 ## Credentials
 
 **Test User:**
@@ -124,3 +136,4 @@ Attach a very short video walkthough of all of the features.
 ## 📜 License
 
 This project is licensed under the MIT License.
+
