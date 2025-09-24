@@ -1,0 +1,15 @@
+{
+  "rules": {
+    ".read": "auth != null",
+    ".write": "auth != null",
+    "candidates": {
+      ".indexOn": ["githubUsername", "status", "position"]
+    },
+    "jobs": {
+      ".indexOn": ["position", "location", "remote"]
+    },
+    "users": {
+      ".indexOn": ["email", "role"]
+    }
+  }
+}
