@@ -2,8 +2,7 @@
 
 ## Introduction 
 
-SkillScan is a web-based recruiting tool designed to help recruiters assess developers efficiently. By analyzing a candidate's GitHub activity, SkillScan generates a score and provides a match percentage for a selected position, streamlining the hiring process.
- 
+SkillScan is a web-based recruiting tool designed to help recruiters assess developers efficiently. By analyzing a candidate's GitHub activity, It generates a score and provides a match percentage for a selected position, streamlining the hiring process.
 This allows recruiters to make data-driven hiring decisions quickly, reducing manual evaluation and bias.
 
 ---
@@ -16,8 +15,8 @@ Fullstack (MERN Stack)
 
 ## 🚀 Deployed App
 
-  **Frontend:** [SkillScan - Try it now](https://skillscan01.netlify.app) <br>
-  **Backend:** Backend services are provided by **Firebase** <br>
+  **Frontend:**  [SkillScan - Try it now](https://skillscan01.netlify.app) <br>
+  **Backend:**   Backend services are provided by **Firebase** <br>
   **Database:**  The application uses **Firebase Firestore** 
   
 ---
@@ -54,7 +53,7 @@ Attach a very short video walkthough of all of the features.
 
 ---
 
-## ✨ Features
+## ✨  Features
 
 - 📊 **GitHub Activity Analysis** — Analyze your GitHub stats and contributions  
 - 🔢 **Match Percentage** — Calculate match scores for selected roles  
@@ -65,7 +64,7 @@ Attach a very short video walkthough of all of the features.
 
 ---
 
-## Design Decisions and Assumptions
+## 📝  Decisions and Assumptions
 
 * **Backend Choice:** Used Firebase for backend and authentication for quick setup.  
 * **State Management:** Chose React Context API for simple state management.  
@@ -97,7 +96,7 @@ Attach a very short video walkthough of all of the features.
 
 ---
 
-## 📸 Screenshots
+## 📸 Visual Overview
 
 ### Authentication
 ![Authentication Screenshot](images/Screenshot%202025-09-23%20171052.png)
@@ -121,8 +120,8 @@ Attach a very short video walkthough of all of the features.
 
 **Test User:**
 
-- **Email:** test@gmail.com
-- **Password:** 123
+- **Email:** admin@example.com
+- **Password:** admin123
 
 ## 🛠️ Tech Stack
 
@@ -136,4 +135,5 @@ Attach a very short video walkthough of all of the features.
 ## 📜 License
 
 This project is licensed under the MIT License.
+
 
